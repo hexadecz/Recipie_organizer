@@ -46,3 +46,28 @@ the application, ensuring a smooth and organized execution.
 Note:
 Given the project's relatively small number of classes compared to other ideas, there is room for enhancing the interface or
 expanding functionality. Students are encouraged to suggest additional classes to further enrich the project
+
+
+
+***The user interface mainly consists of 4 pages:***
+• Add new recipe (saves data to be used later)
+• Random recipe (shows a random recipe previously entered )
+
+
+• Search for a recipe (searches the data base for previously entered 
+recipes by name )
+• Categories (allows the user to sort the recipes as they please ex: 
+blue/red/… or dinner/dessert/… )
+
+
+![](s.png)
+![](ss.png)
+
+
+***The UML diagram :***
+![](WhatsApp%20Image%202024-01-04%20at%207.30.59%20PM.jpeg)
+
+
+***Data Base:***
+
+![](bb.png)
